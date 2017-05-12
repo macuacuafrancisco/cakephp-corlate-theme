@@ -1,9 +1,9 @@
 {
-  "name": "backstageel/cakephp-corlate-theme",
-  "description": "CakePHP 3.x Gentelella Theme.",
+  "name": "macuacuafrancisco/cakephp-corlate-theme",
+  "description": "CakePHP 3.x Corlate Theme.",
   "type": "cakephp-plugin",
   "keywords": ["cakephp", "templates", "plugin"],
-  "homepage": "https://github.com/backstageel/cakephp-corlate-theme",
+  "homepage": "https://github.com/macuacuafrancisco/cakephp-corlate-theme",
   "license": "MIT",
   "authors": [
     {
